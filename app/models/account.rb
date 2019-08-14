@@ -1,2 +1,2 @@
-class Account < ApplicationRecord
+class Account < Activerecord::Base
 end
